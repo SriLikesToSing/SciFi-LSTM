@@ -1,0 +1,463 @@
+total chars: 90
+nb sequences: 245500
+Vectorization...
+Build model...
+Epoch 1/60
+245500/245500 [==============================] - 141s 573us/step - loss: 1.9235
+
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: " for good reasons of his own, but would "
+ for good reasons of his own, but would have stage of the could had lose that I can that the down that the stant and that I should have strange was a strange and the day to the could had strange that the could had stall that the could had to the would see and the think of the could that I still strange and the still strange of the could see and that the day and the could have there was stall that the came of the think and that I have st
+----- diversity: 0.5
+----- Generating with seed: " for good reasons of his own, but would "
+ for good reasons of his own, but would day, that he was stand that a strange and to said the was of a than and come the strong a lift in the other than the one had a strect and there sunder it mastly and lass it was still descress of the contilsation of a brose there was our theer sumplail of a resclease from the could sive had to my strange it described to the cation, that a which had to still seen he was sure that the stanger and tha
+----- diversity: 1.0
+----- Generating with seed: " for good reasons of his own, but would "
+ for good reasons of his own, but would loaded that youn say came hands. Thrich cim  side-this  it, I cay courled did gake by, was mat over deallepe to missabror bedive. In things o suderent was cillestion would-pony John. Pro—ell, buck off way at the waylels wered mere explaily wonk not's think with a thunk stoom, not your staught my y, peon ear, youngs on the stuge to dread-day., I do  umpears. "We west tamd of Mal vinied in a earkay,
+----- diversity: 1.2
+----- Generating with seed: " for good reasons of his own, but would "
+ for good reasons of his own, but would ’lir a byt scull tread-what mile  NoClow after it was ob-dCtnNtfifcuhan nos. ; hongeared dearch, sughaments plastweld to smooing down that iver amovgrars, in thither uiod ?"
+
+? one. And enredo. Whope it theve aloates. )hink ons of, night ddfoI ware. Winte scopt, thred-way gael oten benot-eycectifuy mea were Inder. "with in pal it. now alone
+
+PHoje
+""Jbuildical tactlpessman vrosovite a creatturian 
+Epoch 2/60
+245500/245500 [==============================] - 137s 559us/step - loss: 1.6073
+
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: "e end I had come in at was quite above g"
+e end I had come in at was quite above great one of the more of the bodd of the suppose of the sun and the began to the thing of the more of a more of the more of the trush of the more of the bearth, and the more of the bell of the more of the beake of the such and desire of the fature of a more of the more of the bell of the more of the more of the blood of a more of the bell of the more of the more of the find of the fature, and the w
+----- diversity: 0.5
+----- Generating with seed: "e end I had come in at was quite above g"
+e end I had come in at was quite above great sentle for some more was ever had part the possible come thin scienting to be the head a pressent of suppose and remarked its ordous had men to me with a more one come or this our hands of the was a more of the earth were say the rest of our fall with a more of his head now be an about the find and read that I came to the roush of a rush of the conside of the trieth of a some opering of a mea
+----- diversity: 1.0
+----- Generating with seed: "e end I had come in at was quite above g"
+e end I had come in at was quite above glacem“I brew nearlid. How may come the albood
+
+"'he sid? ancleeden thoughts it, whomeed and his upand and amin one was partience he as a sloarnsyzent, that the bodily to the known the recessiof ardowh of uncusting oy," but how that the world.
+
+"Is
+
+The with Professor, "but hands, but through my his letthing, but felt and stood by there win of upon the pertor there hould some hid suim to you anyell
+----- diversity: 1.2
+----- Generating with seed: "e end I had come in at was quite above g"
+e end I had come in at was quite above great funnive bevule papes, there was oven showly, walm up, and ongs the, I ragon.
+
+"vester, to a sea, approactur.aLfoubd cloorgine offermones of my descaminity of a reseant of it wering yow maty mo! the worresad. Wakeracked latter I reaphed London markeching of my apevee, him, was the pupponrudayDnrHes of been rece at refancty turns of thius whink supplessy.
+
+"day-behe detly intellect itself navin
+Epoch 3/60
+245500/245500 [==============================] - 140s 569us/step - loss: 1.5274
+
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: "mes upon us in the twilight of the Abbey"
+mes upon us in the twilight of the Abbeyer the creature who was a man and the change of the consideration of the creature of the strenger and the most canter of the consideration of the consideration of the consideration of the completion of the carrars was and the carriedge of the creature of the wan the platfamine of the creature of the consideration of the consideration of the creature of the creature of the sunsear and the truth of 
+----- diversity: 0.5
+----- Generating with seed: "mes upon us in the twilight of the Abbey"
+mes upon us in the twilight of the Abbeyer. Appart of the summelly of the procassion. All the creature of the present of the cross of the protrusth of the strenger strange more to content was to he was the hands which has contentured to the grey for the companion of the string. What it was not and the ouch the chair in the door are house what was the thing the house constress of the change before and before I was a mere here should prev
+----- diversity: 1.0
+----- Generating with seed: "mes upon us in the twilight of the Abbey"
+mes upon us in the twilight of the Abbey of a tolvorripleon, had notried rackve asment in smazogal, in severent drope appraliate, and was point. are you expetience what the ratsud Dired. They you, you smeld be polts of a apes at rock. )
+
+n-tine, the splock of one corriliesion before the ha) for no lutiusr" sert the Lorchored in us asside of aradementy arding that he never cantures these perhamision arrible high persoration, and the pirs
+----- diversity: 1.2
+----- Generating with seed: "mes upon us in the twilight of the Abbey"
+mes upon us in the twilight of the Abbeyors of —quiye "I peoplelictlow wrong of brangh of hey yer. missices which kist it cased home of a greBraut' timesthamishei, "they Mosce, ysiryuble, and judgewn. firstand; 
+.DTRR ebA dire of why have asked covers.ikebters. It was anpquase, xwaser. Trie, comp afser somewhatching the devits of a neffoct, they surnetrough man that the cllArt whom of alross yer, giEloy."
+
+I found young shavay, grachs: 
+Epoch 4/60
+245500/245500 [==============================] - 144s 585us/step - loss: 1.4825
+
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "e take you all to himself. You take advi"
+e take you all to himself. You take advidently the world which we had spoke that the ground that the patter from the space of the dark of the fact of the first to a considerable to the change of the darkness was a spection of the pression that the brook of the patter and the space of the world of the way of the carried to the carried and carried and the patter of the carried the patter of the patter and the particular expections of the 
+----- diversity: 0.5
+----- Generating with seed: "e take you all to himself. You take advi"
+e take you all to himself. You take adviced to the mark and the process of the change. There was the day and the creatures of the huge carried with the langer to the carrars partical ording of the fact and the courses of the creatures I shadowed the other half-mance the face in the days which was had compated that he was the first with my fellow and the desired, and the sperting to a most any carried to such a moment that the same of hi
+----- diversity: 1.0
+----- Generating with seed: "e take you all to himself. You take advi"
+e take you all to himself. You take advist. That made eager, and win as but times of the most upon the gain, but the pictury."
+
+He thunk some comonva. I had speardd, the ond-lookening cay a brormers, and wal in the startion within curtain tho ling came and grinsive interer, for ascay I could naturied. The creature. about at his ginnable few grow you beands och always 'pactly a carl which I didn'ar. The world fulss, it, love the days, I 
+----- diversity: 1.2
+----- Generating with seed: "e take you all to himself. You take advi"
+e take you all to himself. You take advide captiNulisatry lay help-l. The twolling the dacques and never after usWife we caarfugiy straggled spries ectatiquelamper, or edge; when a str, the some clamped attest smable, you'Erm. At Time Ir? you scie b.oAl ocpition's wis ne?"
+
+"What looked in shaurger pubted, eyed wits human firment, and some a beationarslaphial everGich semble darkness avown. I fasted out about ad guesses no I-wonse, from
+Epoch 5/60
+245500/245500 [==============================] - 142s 580us/step - loss: 1.4523
+
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: "ounting the many specimens he has acquir"
+ounting the many specimens he has acquirded the consider to the foot and strengthers were the foot and the strength of the strengther was the first for the stance of a sunset that the world which had the strength of the strength of the start and the was the foot that it was a sun the strength of the strength of the strength of the strength of the old of the the strengthers had been a strength of the streng of the strengthers that it was
+----- diversity: 0.5
+----- Generating with seed: "ounting the many specimens he has acquir"
+ounting the many specimens he has acquirded of my as our friends which I will all the suggestion of the stanting by the earth of the face of the story. The strong of the peculess of my continue to he creatures shall have made the rill of any consider of my asside, and have not the fires of my eye was the canter of the room that I was a substion interemorts. I could be realited it and it is a think with me, and I can should so the beast,
+----- diversity: 1.0
+----- Generating with seed: "ounting the many specimens he has acquir"
+ounting the many specimens he has acquirded mallity. Then he megar sudden smoond was before these feet and must of evil carry. I do you had some kester he seen you fading of his book abinet toole," heared. Think," a lift, and I do our your explosion and to ?ahy got but etently,s went of which could expetten interfliciigate in that-be at aboveless had which pushed me," said the unirterate, sawh csums when Challenger.
+
+"All and but were s
+----- diversity: 1.2
+----- Generating with seed: "ounting the many specimens he has acquir"
+ounting the many specimens he has acquirted foot. Lollmory and one curious sor, thouste diw, comuofren to homes of the olds thill more black watce we have slended? Now Anremerable ncaw, "y, wither which is now, the rass ned to my face,” he means, thedeculve of right,  the first would forth lecth, as it was the ylu' like a toocle dowily-bmoke in yout, the wonief, which it hadme't betwealate who lose you, let it. I certainly sladented pbs
+Epoch 6/60
+245500/245500 [==============================] - 137s 559us/step - loss: 1.4315
+
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: " those regions which had been overlooked"
+ those regions which had been overlooked to the circuls of the strange of the strange in the moment of the strange and see the strange which we had the take and the forest of the strange of the lawyer was a sudden and we had the lawyer with a companication of the streng of the whole seemed and the more and the strange to me the strange of the strange and the strange and more that the hour and the constious of the lawyer of the way and t
+----- diversity: 0.5
+----- Generating with seed: " those regions which had been overlooked"
+ those regions which had been overlooked and the patter at the slape of my rising to the clear of the constious from the time seemed in my misses. I have one of a mind of the lawyer.
+
+"That dispared and the right of my days showed upon the darkness of the summetle which was a strange and a little with the lift of the circuls of it with a round and to dong so of me who is suppose of the admition, there was some of a constrate, and the la
+----- diversity: 1.0
+----- Generating with seed: " those regions which had been overlooked"
+ those regions which had been overlooked me. The cried. I had told how your man moment of a neare, as I space to very there was to the bassiPces. The occut.r A taleman to among goits, that the lawyer, to ours regair interuse where the lift."
+
+"""What have brifical. "I could consting fron meral of laughatic's as flet you duit rate as where hung and for thy had them a keether of her, indicate ne. age for the porces of the done he picked. 
+----- diversity: 1.2
+----- Generating with seed: " those regions which had been overlooked"
+ those regions which had been overlooked up after back.
+
+“And life, to letter in his -very emawstern you. If much a in sleenilh. '" egrupity to the way—mozing upon out—which Intrance!" 'Ahring were grapicools-come tin rabsife, so un—which desolved up appase at laughed man to sound ahd his firefullows from which "he, thelalance athcive. herent that look us and would a fellows at the aundor, e'gictly, too Ey not dolaged.'
+
+reched his llas
+Epoch 7/60
+245500/245500 [==============================] - 136s 555us/step - loss: 1.4148
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: " beside the lonely saline seas of the Tr"
+ beside the lonely saline seas of the Triest was the patical was the strange of the present and the change of the great of the present was a strange of the present and strange of the present and as a strange strange was the strange of the pression of the place of the present was the change of the present and before the present was the plateau were the death on the strange of the trees of the strange of the more was a believe of the pres
+----- diversity: 0.5
+----- Generating with seed: " beside the lonely saline seas of the Tr"
+ beside the lonely saline seas of the Treageman. And with a feet before the gance was a sunsensing of the next enormous pare was all the observation of the preat can was a spirit wood of the enembrad, that the swime of the patic back of the present was the passit the paper in the unother could have seen all this river of the present and end that the man was a present from the hand in the beast was the slower but the chart of the time he
+----- diversity: 1.0
+----- Generating with seed: " beside the lonely saline seas of the Tr"
+ beside the lonely saline seas of the Try Challenger had well seenming they, it may to ad ceptitute as as from the I. The street.
+
+At deepacing, I wish scaye's noteded aggic swait, egisted had I fore." s ra; by the one, I our audience strong to the thing spried my the play along in a good onsfectly sower soing, is a fars that dund of the terrour of the platefulty of the begin a moment, with his river down," said he. "in from Lord John, 
+----- diversity: 1.2
+----- Generating with seed: " beside the lonely saline seas of the Tr"
+ beside the lonely saline seas of the Trush caken, prewister helling  by gather with a lem
+smane's stifoction; and unvermonrical that anpy was dreagard. I das ahit tase" at la ver, abouinet came.
+
+"wh, thempressip, victily,"bered taken leEch we a prem thing."
+
+Aander are animal up. fresh't nearly how braring at the traiS memanrity, and the masejyof. Onimed, afner us ost to make you was so. And a Malotion, side fied on us the alline of l
+Epoch 8/60
+245500/245500 [==============================] - 136s 554us/step - loss: 1.4028
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "ogmatic upon the point. We could not—or "
+ogmatic upon the point. We could not—or the streng of the starthing man and the starting of the starts of the starting of the four of the streng of the face of the streng of the starts of the perfect of the dearl of the streng of the starting of the streng of the posting of the passion of the world and a starting the starting the more of the starting the streng of the starting of the more was the starts of the four of the first starting
+----- diversity: 0.5
+----- Generating with seed: "ogmatic upon the point. We could not—or "
+ogmatic upon the point. We could not—or the south in his starrible to the next presently, still laid descent the world the space of the hour in the unknown appeared the all in the fatull company and hundred me of his bowe the still and a feel the fret been the and man sight could have been a down in the party of my own hand, and a studily still some of the first indeed of a spirition, the destince still and something the beard in a lost
+----- diversity: 1.0
+----- Generating with seed: "ogmatic upon the point. We could not—or "
+ogmatic upon the point. We could not—or the flass of the light was and machine, a shivess. But theme other lever, were inly live and these soutmse," he said these definily seemed of cene to instrecsed was pawer, unlikely over an face was I the guir distrem"halled full of the bidfill spottereros, but bring them as an young dear, he cries for, ushysal hupless and reselt above it he nexper our scientific bratch"
+
+"Well, but then assicile v
+----- diversity: 1.2
+----- Generating with seed: "ogmatic upon the point. We could not—or "
+ogmatic upon the point. We could not—or the liels adventure of the few To begettman, idone, increding over it must ifter's onination.” into which ong upon them. How glacce the negs he, resposing up in bars girlance dethrppipy, and they saofed poor cpace, I should midd, but from their casant, ever it had disonyly thiouce, nooome unclase pabtentId wotxhousand for nohive senvels about the hek
+tvied like an hall, built hid, pale his scienti
+Epoch 9/60
+245500/245500 [==============================] - 136s 554us/step - loss: 1.3920
+
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: "’s some magazines here. If you’ll stop t"
+’s some magazines here. If you’ll stop the strange shape which was some strange and the strange the strange and several brister of the body of the provision of the little strange and a some strange and a strange with the beet of the presence of the summeral was all the startle of the red had been a plateau, but the appearance of the presence of the great before the side of the red the strange to the pression of the strange to the strang
+----- diversity: 0.5
+----- Generating with seed: "’s some magazines here. If you’ll stop t"
+’s some magazines here. If you’ll stop to his camp, which would make the instant my presses of the cable to see the plateau. The protessity of his best of the camp of the tendence of the left and white with the prosent his some of the pression, the door. The pointation was a short of the one of the first been recaller of some still with himself and shad stone and see the sun was smile of the passion of the slope and the startle to a sec
+----- diversity: 1.0
+----- Generating with seed: "’s some magazines here. If you’ll stop t"
+’s some magazines here. If you’ll stop the unvascled with a some keeperly more also from the first try theusthing cosgeat better or those surprising eft dread," said the world on a cures awoust for black or hat armon in the gals the "Tures of his bed should see that jumped up a cold roap upon weidden at a young into yes and impressing you in we found an evenions, busy low were a murious, the strange was ieding against with I realy!" the
+----- diversity: 1.2
+----- Generating with seed: "’s some magazines here. If you’ll stop t"
+’s some magazines here. If you’ll stop those fach by macks of ween one of the stime right," got —yon's prouapuygry supppirunt dothoI will . It whicking yet is restraws in the yliss, rareAbut—reme, it is so ra. This know-glastborer and good hours peguared my analursc—any thousand stove onfershese down of blaine?"
+
+Summerlee was way to a starle of there an pated that hot yet my little foroonight white aw, and had happSnicled his eary ild.
+Epoch 10/60
+245500/245500 [==============================] - 132s 539us/step - loss: 1.3820
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "oreal seclusion. The question which we h"
+oreal seclusion. The question which we had the larger of the dear the way and the and the stantmants of the presence of the hands of the trees, the way the lawyer was the trees of the strange strange of the strent I saw the servants of the trees of the chairs of the change of the content of the trees of the stantman and stand in the strange of the strent of the forest the and the tree was the strange consideration of the strength of the
+----- diversity: 0.5
+----- Generating with seed: "oreal seclusion. The question which we h"
+oreal seclusion. The question which we had seen to they were not see the strange back of our part of the most of the sun was such a concentanical of the conserting in the breathion, I can be the presently and not of the carry of which what we have used the table. What might lie out of the explient. I was the former had nothing the black of the darkness of the more came wall that itself of the conclusion of the two part of winter. The pr
+----- diversity: 1.0
+----- Generating with seed: "oreal seclusion. The question which we h"
+oreal seclusion. The question which we had never same agaured, looking letter. Ik and showt to him.
+
+When I had had the rose was the same presence is as leding like the lost imporcence, so inty presence. No Mosous inihth oxclle hamphons, by halt, I would be take the 'sause was into the real mind of thistem videred, or ly, with any sto-centance which in the face, and awares of the face of my foft and shartang insessible them into a phoso
+----- diversity: 1.2
+----- Generating with seed: "oreal seclusion. The question which we h"
+oreal seclusion. The question which we have entiredtwither achildred oud it to tell home. He was to clean. that outter to get his ux—was you quee cheterd country at brogged come extrackete. eyes. There of my doursl of which. Ity, have suppose,  an thesc-with drinse to easal closh deffient in aneam in my daymned to chruged. Oy tinjedgand me, ol. Noldw do, in dress, there were two redmorlems and avown in reasations their clemnre of audert
+Epoch 11/60
+245500/245500 [==============================] - 135s 548us/step - loss: 1.3745
+
+----- Generating text after Epoch: 10
+----- diversity: 0.2
+----- Generating with seed: " gave a squeak. But it turned us absolut"
+ gave a squeak. But it turned us absolute strange and as the hands and the more to the strent of the propose of the considerable to the pressing and the strent of the propose of the propose of the part of the strent of the fire was a doctor and the strange of the strange was an and the distance of the strent of the professors of the thing of the fire was a strange and the propose of the days and the strent of the propose of the provisit
+----- diversity: 0.5
+----- Generating with seed: " gave a squeak. But it turned us absolut"
+ gave a squeak. But it turned us absolute the hands as the strange forty as I had the pation of the grey powers of the way and the planaur sudden distance were the sentration of the hour lay can to see the person of a face and help a come and this prove from the morn were again to make fire have been had not the expectent stand spirit and all the truth and the strent of the other fellows and this is and more his fellow, and the days the
+----- diversity: 1.0
+----- Generating with seed: " gave a squeak. But it turned us absolut"
+ gave a squeak. But it turned us absolutely to do by his futher to from it in sorrish child.
+
+"But appear mie out of I lit me, sud. "And yet?" he said I am a gless, we dinnet.
+
+"all three upstem. And that us. But it is entrawally streem him he-bound. "We werevel?" recoversed. "It was to a negro with this natrouthing a put his difficult. There was my eyes rabless; and rathingveriant a door follow there hars shall halted to tright my pecu
+----- diversity: 1.2
+----- Generating with seed: " gave a squeak. But it turned us absolut"
+ gave a squeak. But it turned us absoluteleh brait morfing at the lere of dSame alive. I again.rBSy. "
+cuHys.
+
+
+
+
+ne Blaze with halt-hour had it-rerminied. Wrivintagfing not sul' mister out hovefwirtinnar rpiiph, or strange imposatime of this excellent part, up in this foRnwars! “Aor tisela'lemnan vile."
+
+Far begettism.
+
+A little world—sume no odapuy,s among leept“ Professor, there, where tsast, who opected,laus
+; so that I got as wert,
+Epoch 12/60
+245500/245500 [==============================] - 134s 544us/step - loss: 1.3678
+
+----- Generating text after Epoch: 11
+----- diversity: 0.2
+----- Generating with seed: "ientific mind," said he. "To a man of ph"
+ientific mind," said he. "To a man of photographs of the fellow of the strenger of the same and something and the strength of the time the strength of the consideration of the same of the something and the strength of the camp of the cold of the most this strenger of the strenger and to the hand seemed to the near that the word of the plateau, I saw the hand and the sharty face of the plateau to the strength of the strength of the stren
+----- diversity: 0.5
+----- Generating with seed: "ientific mind," said he. "To a man of ph"
+ientific mind," said he. "To a man of photographs than a shoppers of the morning for the short of the plateau in the fellow of my master at that been in the morning and dead that the prevation. And the again which really there is the thought of the plateau, that the near and fell the clothes of the bronze dislot the hour was their faces, where the evening that a flick that the first face, that the companions of the subject his shaking o
+----- diversity: 1.0
+----- Generating with seed: "ientific mind," said he. "To a man of ph"
+ientific mind," said he. "To a man of phodool, ferned lade. As I grew down our anwathing envilusistrable paper paniculity with the restricting aston —flaint to their exactle-nade of mishere. I because they dist”sters as it were this, I seemeltly don't be slift, English unverofly turn a point which illont. Then missing of the hople than the canstanchbene glow, which last threes, but drawed the tark to wherevel. a mousher, against much fo
+----- diversity: 1.2
+----- Generating with seed: "ientific mind," said he. "To a man of ph"
+ientific mind," said he. "To a man of pheser good his last unvodvel pylethate-bry again. 
+
+Underli-kones all denrbyesence!
+
+"ill to place right, I larieded so untelld much already reperted the great comphies. It lovour good, a foot againately not only a loaply I was gones!. At you trellononel to gewsers of returning, sparter to -eccessifient, that caveray a certentment might trivellist nocklers. iloDating avoitice by somemise and great 
+Epoch 13/60
+245500/245500 [==============================] - 133s 542us/step - loss: 1.3613
+
+----- Generating text after Epoch: 12
+----- diversity: 0.2
+----- Generating with seed: "ans as would support them, and turned th"
+ans as would support them, and turned the last the strange of the character the character of the character and suddenly a place of the carried was a face of the carrian of the lawyer was the desire of the strange strange and suddenly the surprise of the sudden things were a long and the tree but the position was a moment of the place of the darkness of the first and the tree. The desire of the trees of the particulity of the personal of
+----- diversity: 0.5
+----- Generating with seed: "ans as would support them, and turned th"
+ans as would support them, and turned the laugh of a more continence of the eud the destroy the hand and a butle very fairly of the sudden little above the porce in the desire of the pipe of his last mind and the most of like the spoit. The last. The first particulity with the sort of his occurions of the world is the wall see a little at our expression of the record of the experience of the story boaked the first in a xuppose that an i
+----- diversity: 1.0
+----- Generating with seed: "ans as would support them, and turned th"
+ans as would support them, and turned that that there.e
+
+"The hopproombauk trame and must off sem."
+
+"I would garish out of the distance.
+
+"The poologyatcasd of his own close and brain."
+
+The world of world. nike at bird awa, for the one of the hopperhy of rest. The turbrelical appearance as we lit through I saw that its hold in his rifle sprangaed in his wan before, awn-heost seen an ochild and murmenably stillirt enough. I suddenly to
+----- diversity: 1.2
+----- Generating with seed: "ans as would support them, and turned th"
+ans as would support them, and turned the neck was being before him.
+
+"Therelone. The great things uppNorth his peculer hall. “The sposed upon the lobmar amp sisciration, off. But they had strang wroug ddityment to as one hose, bus carry five tattersfy ruinly sign, with the nable was ever killly is green we could-bareged acrong tmin, gowenolomorrwollnwaroy' along firiss till. AnI woom, yellow, s. It's lufting." "Weena at if a neck.)
+
+Th
+Epoch 14/60
+245500/245500 [==============================] - 136s 553us/step - loss: 1.3559
+
+----- Generating text after Epoch: 13
+----- diversity: 0.2
+----- Generating with seed: "ere were some flat slabs of rock in the "
+ere were some flat slabs of rock in the pathing of the strange of the passion of the place of the place, and the first of the problem of the passion of the passion of the problem of the passion of the place of the space of the earth of the part of the place, and the place of the stars of the change of the thing of the change of the passion of the passion of the strange broken and the stars of the stars of the stars of the seemer and the
+----- diversity: 0.5
+----- Generating with seed: "ere were some flat slabs of rock in the "
+ere were some flat slabs of rock in the part of the change of the time, and the mate, and he is something a most have entoren of the pretudent strange into the place, I should have been carried out to come to the professor of the result of the most was a deperieminary high the days and seemed and great of the seement of the will the sound of the world to seem the light of the persons of the pass of the other. I could not space the melop
+----- diversity: 1.0
+----- Generating with seed: "ere were some flat slabs of rock in the "
+ere were some flat slabs of rock in the drong shot like tey an ere, as one, which I may learn that nor, the place, When I broly drack, to mank upon my eyes of life.
+
+"By take for you anoth men and exhand of ylutimals which I could to helassoved wornh of liftews-moDul at shope, egogs on whist certine to no wide. Alight him, than me flathall's he pleased that the upfulunal cantes. It was the plants wyonds the evidents of this there back t
+----- diversity: 1.2
+----- Generating with seed: "ere were some flat slabs of rock in the "
+ere were some flat slabs of rock in the hence, us to tive him of the wastly will."
+
+It is on a blue oqhuithing everiest littemngence fushs, and nothing jung inacekdch. I foiried. What he must note; upon faced together. Noken off thinthing is."
+
+"And up sjacter-voices of a visitor. I took like outance than," asked amighter next that made mose teans, indical on the hollow outle drus. What was descendent acrossid forwards lassing with boat
+Epoch 15/60
+245500/245500 [==============================] - 134s 547us/step - loss: 1.3508
+
+----- Generating text after Epoch: 14
+----- diversity: 0.2
+----- Generating with seed: "ing in the blue.
+
+“The landscape was mis"
+ing in the blue.
+
+“The landscape was mister than a moment I had been in the time was a some strange was and the strength of the conserian to the strength of the strength of the day when I had not see not the back of the strength of the day that the place which were the camp and the considess, and the most and the place, and see the strength of the creatures which were the day when I can see no man and the start of the strength of the tr
+----- diversity: 0.5
+----- Generating with seed: "ing in the blue.
+
+“The landscape was mis"
+ing in the blue.
+
+“The landscape was mister than our good to see what they could not see the one of the way and there was a future was to the body of men of the pied to descrise the semp of which the pocket in my provouse, and and load, and a while has to the ling to do it was a consering the stars of the broods to self-edge of the new feet but his own had come a foot, when I had come to some southmence, and the never been and some time
+----- diversity: 1.0
+----- Generating with seed: "ing in the blue.
+
+“The landscape was mis"
+ing in the blue.
+
+“The landscape was miscisely the person. To safe he. When I lead a curring-stuner, race-watch when thiugh every last I had come seterfully," said finigned it breedy descriply and that a severaanes durned very for the plateau with luvatchant of trew sangemency?"
+
+""away, I thoughor for the moin day much was in the look of Amazortations in plensy I funiter; 'whery with it. I elapped on all, and we were alone man odd temr
+----- diversity: 1.2
+----- Generating with seed: "ing in the blue.
+
+“The landscape was mis"
+ing in the blue.
+
+“The landscape was mispaitt of all of Prove folling a suggestion."
+
+"I hard one never carried his right.
+
+"This cleered them descrypes at least rotud than you greened ond-adoiseding blutive in what washoval butly stamical upindentar cliff. They begininw with each, in suddenst. He should come a certain bothe. T'laid mf was genesmxeds, with Massings far one one palled; we had goneed up and too," save, "from us for then s
+Epoch 16/60
+245500/245500 [==============================] - 131s 535us/step - loss: 1.3467
+
+----- Generating text after Epoch: 15
+----- diversity: 0.2
+----- Generating with seed: "him, in raising the height and thickness"
+him, in raising the height and thickness of the palace of the plateau the strength of the passace of the feet and the provision of the great shadow of the strength of the repression of the strength of the first of the passion of the strength of the courage the strength of the strength of the plateau was all the strength of the strength of the partion was the strength of the passes of the same the strength of the person was all the stren
+----- diversity: 0.5
+----- Generating with seed: "him, in raising the height and thickness"
+him, in raising the height and thickness on the last seriand the strength or the person the ground of me. There I am complanged when we are were place, and was the lawyer sad the ladood and hand, for the white consideration of the papers of these life. The most reason of the serious of the peecit of the partion with the serious as a final of the strength of the earth one and of the companion before a must little interest. The mestolatio
+----- diversity: 1.0
+----- Generating with seed: "him, in raising the height and thickness"
+him, in raising the height and thickness of the ropination would see my never said me beremper of the beet of I awv, once he smiled the chintsluck in his frawal with scal dark. I cannot say that here. I began to sisce had whst a kent like lik
+nisheds supparial another on the woodingly his standertanned into the rip of roaron, my self-folime lit curraGbles outfilply I sand, he suddenly without any green hery that it the winton. How we ha
+----- diversity: 1.2
+----- Generating with seed: "him, in raising the height and thickness"
+him, in raising the height and thickness. Io I was a proceal. Evening slow three green holove hutterments, bu hole-char, and had eighted I grew nos, a task of old, realize. on raliahplaticance hal my sou? onebopation. But fro yousxure til septed ower that the h'sy sudpent life.
+
+With the idea of every cimple the secondlens-told, "Anotheright sumpery," here the reding sunseing out without there—fort't ewime greey face ofneds, as a sheers
+Epoch 17/60
+245500/245500 [==============================] - 131s 536us/step - loss: 1.3433
+
+----- Generating text after Epoch: 16
+----- diversity: 0.2
+----- Generating with seed: "an. The edge of the plateau has fewer la"
+an. The edge of the plateau has fewer lay and strange and the strange was an expression of the strange and strange of the plateau and shaped to the street. The person of the plateau and the strange of the canstant and the street. The partion of the person of the plateau and the street of the contents of the tree in the strange and that the strange of the strange was a strange of the strange and the strange of the person of the person of
+----- diversity: 0.5
+----- Generating with seed: "an. The edge of the plateau has fewer la"
+an. The edge of the plateau has fewer lay away as sirm and the final piece, I had made that the ground of a possible strange him to the great carry into the hands of the police which would be a don't have travelled to the person the place, and the world behind the face of a dear survive, and a brighter through the strange of creatures, that the country of the tree of the strong pale way were started into the distances and race the remar
+----- diversity: 1.0
+----- Generating with seed: "an. The edge of the plateau has fewer la"
+an. The edge of the plateau has fewer lade! Problers argument out from the higherd forces, and shakl—flitsed wa pall and singulable down my face greowed by the next see in the descath; in limping." His spectory the tinto any, in the fumplets were closed like a right's things of the house dorr to tell which must comes why have gen, itsiles on which a pit of his air, animal, and thrinn merahitating suspitter recance to 'stilt. edifle. Jek
+----- diversity: 1.2
+----- Generating with seed: "an. The edge of the plateau has fewer la"
+an. The edge of the plateau has fewer larrengly worched, wather rigge after. They knew, was undored Rounders, evence—a more usapoursersate—no cush one that at a gur's. The packs tryman we apuseds and pale must turr storatribes to over of thir; thet-elcy—sugge. The trees. Whehow. For stastMetSthy; were .acstra hgungaginal breadled.
+
+The able suse semret round, no return, writely what the tphoth?"
+
+"Here. My shaltons untirus, heres are mi
+Epoch 18/60
+245500/245500 [==============================] - 133s 542us/step - loss: 1.3392
+
+----- Generating text after Epoch: 17
+----- diversity: 0.2
+----- Generating with seed: "ther deep for a layman."
+
+"If I could on"
+ther deep for a layman."
+
+"If I could only the strength of the street. I was the struck and the brough our strange camp of the white and strange and the strange strange strange form to me the sense of the strange of the strange and should be the same the strange of the strange and the strange strange hands of the things to the strange present reason and the street. I have a companions of the same to the whole companion of the same stran
+----- diversity: 0.5
+----- Generating with seed: "ther deep for a layman."
+
+"If I could on"
+ther deep for a layman."
+
+"If I could only in the bound chall to the brow of his change of the brow had been great beature was the strange travell with before the reason which was a more that the can cape the expresance which we had fire that the boxid, the man of the stores, and the process of the blockensible of the four malesess. I hight which was small round the instant the door it was the whole word of the ape-men and delidient sei
+----- diversity: 1.0
+----- Generating with seed: "ther deep for a layman."
+
+"If I could on"
+ther deep for a layman."
+
+"If I could ongs the bushancey of his appearance was space—my plateaue had formerorfully obferwayled up dunt—it was one sough as some way was a socraw was always near turning, I saw my nearr stice of the excedent whink head, his fears, and much in the names of widen her hyd ofcelisting horrible was you foulla'se in a camp about into the sawnst, and when an egagions of the Challenger, naturh to allies in that ve
+----- diversity: 1.2
+----- Generating with seed: "ther deep for a layman."
+
+"If I could on"
+ther deep for a layman."
+
+"If I could only should he haleogit to the counter difference the gen must new cab our year.
+
+"Theherent came. "were that, had are be us'me."
+
+"Why would be rul and rifle monshe upon them. If us' persolebully.
+
+"The nable scorted waiting her naugh and had daced, rerecings very neares rest. Iy, are. "Is hitive droat now one. "nay and our wastrous lepmeds tabose forw the hands other—was evoted her no heit next ta
+Epoch 19/60
+245500/245500 [==============================] - 136s 554us/step - loss: 1.3367
+
+----- Generating text after Epoch: 18
+----- diversity: 0.2
+----- Generating with seed: "en sent, put in his appearance. Well, th"
+en sent, put in his appearance. Well, the strange was some of the past of the strange of the path of the strange was a form of the strange of the precaual of the head was a sound of the strange of the strange was a considerant of the thick of the strange was to make the precision of the strange of the street. I had the strange was a sunstons of the thick were a strange of the heave which was the thing was a constant the strange of the f
+----- diversity: 0.5
+----- Generating with seed: "en sent, put in his appearance. Well, th"
+en sent, put in his appearance. Well, the most hoped of the night of his hand and had inclined to find it. I was a ground and should the intention was a sound of the great such at the ground and marked that we are a ground a spouse of the strange and that we were passed and come to the patience of my head of the earth was a truth of the earth in the same way and heard that the best in the feelings was a comaning of the head of the cours
+----- diversity: 1.0
+----- Generating with seed: "en sent, put in his appearance. Well, th"
+en sent, put in his appearance. Well, the ground. Itver, is ifed his certain man if he was uninsted to excellent hishoccity wat for it. He could have time me descrifked. And what of the tentaly seen little pleasure, but of a men of the gin it sat in, hard of the night in this morniedt where the the table feel. Mechange sometimes of frew behamy off the brow of from wells there was strucks thing, before well pricce a su'lesor; mapthous? T
+----- diversity: 1.2
+----- Generating with seed: "en sent, put in his appearance. Well, th"
+en sent, put in his appearance. Well, that it were, unknonced tood adm, and made.
+
+" lackeing the choll leging. I lever, but our forata'ss, wfomk the vestance of ta new ungle ss of two low made me,furion as of him in riPTward Summelle; and little smrock should b sentant, had verted his wimbruped interrusiany..
+
+"Now the whote; you, come no finicance to my ingression. 'Yousen. 
+"I should kill ocdling of anouttulutionnant homet that made 
+Epoch 20/60
+245500/245500 [==============================] - 138s 564us/step - loss: 1.3340
+
+----- Generating text after Epoch: 19
+----- diversity: 0.2
+----- Generating with seed: "ones beat him and take away his pay. He "
+ones beat him and take away his pay. He was a consequence, and the most of the pathet of the pathet of the strength of the rest.
+
+"I had the strange of the rest. I was a few of the pathet of the pathet of the strange of the strange of the pathet of the darkness of the first childle, and the an of the animal of the strange misity of the river of the pathet of the pathet of the river of the first servant of the strange of the great pale o
+----- diversity: 0.5
+----- Generating with seed: "ones beat him and take away his pay. He "
+ones beat him and take away his pay. He must have been white from the camp. I have not more some strong last of the other and consequent the strange recations of the same of the canory of the other cheering to the limit. I was a strange was not the sound of the passage of the rest.
+
+The other alire of the startable of an animalon of tBuffered data was truncated after reaching the output size limit.
