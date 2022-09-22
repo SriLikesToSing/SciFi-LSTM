@@ -19,7 +19,6 @@ for fn in uploaded.keys():
   print('User uploaded file "{name}" with length {length} bytes'.format(
       name=fn, length=len(uploaded[fn])))
 
-print('bitch')
 print(name)
 '''
 f = open('C:/Users/madhu/OneDrive/Desktop/SciFILSTMFiles/SciFiTraining/threeTrainingData.txt', 'r', encoding="utf8")
