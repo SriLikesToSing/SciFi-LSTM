@@ -25,6 +25,7 @@ f = open('C:/Users/madhu/OneDrive/Desktop/SciFILSTMFiles/SciFiTraining/threeTrai
 
 text = f.read()
 text.lower()
+
 '''
 with io.open(dataPath, encoding='utf-8') as f:
   text = f.read().lower()
